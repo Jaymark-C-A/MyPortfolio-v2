@@ -23,7 +23,7 @@
         </div>
 
         <div :class="[containerClass,'container-fluid','pt-2','rounded-4',]">
-            <div class="image bg-light rounded-4" style="border-bottom: 4px solid blue; background-image: url(/public/img/pic2.jpg); background-size: cover; background-position: center; width: 100%; height: 230px;" ></div>
+            <div class="image bg-light rounded-4" style="border-bottom: 4px solid blue; background-image: url(/img/pic2.jpg); background-size: cover; background-position: center; width: 100%; height: 230px;" ></div>
             <div class="pic d-flex justify-content-center" style="position: relative; bottom: 140px;">
                 <img class="shadow-lg" style=" border-radius: 50%; border: 5px solid blue;" src="/public/img/img1.jpg" alt="">
             </div>
