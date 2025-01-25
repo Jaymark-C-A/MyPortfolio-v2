@@ -24,8 +24,8 @@
 
       <div :class="[containerClass, 'container-fluid','project',' bg-light','rounded-4','mb-2']">
         <div class="row p-3 p-lg-2">
-          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/tms.png); background-size: cover; height: 430px; border: 1px solid #f8f9fa;"></div>
-          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/tms.png); background-size: contain; height: 220px; border: 1px solid #f8f9fa;">
+          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/Tms.png); background-size: cover; height: 430px; border: 1px solid #f8f9fa;"></div>
+          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/Tms.png); background-size: contain; height: 220px; border: 1px solid #f8f9fa;">
           </div>
           <div class="col-lg-6 p-0 px-lg-4 mt-3">
               <div class="form-group fs-6">
