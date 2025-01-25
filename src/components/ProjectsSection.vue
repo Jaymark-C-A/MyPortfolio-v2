@@ -24,8 +24,8 @@
 
       <div :class="[containerClass, 'container-fluid','project',' bg-light','rounded-4','mb-2']">
         <div class="row p-3 p-lg-2">
-          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/public/img/tms.png); background-size: cover; height: 430px; border: 1px solid #f8f9fa;"></div>
-          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/public/img/tms.png); background-size: contain; height: 220px; border: 1px solid #f8f9fa;">
+          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/tms.png); background-size: cover; height: 430px; border: 1px solid #f8f9fa;"></div>
+          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/tms.png); background-size: contain; height: 220px; border: 1px solid #f8f9fa;">
           </div>
           <div class="col-lg-6 p-0 px-lg-4 mt-3">
               <div class="form-group fs-6">
@@ -122,8 +122,8 @@
 
       <div :class="[containerClass, 'container-fluid','project',' bg-light','rounded-4','mb-2']">
         <div class="row p-3 p-lg-2">
-          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/public/img/portfolio-v2.png); background-size: cover; height: 240px; border: 1px solid #f8f9fa;"></div>
-          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/public/img/portfolio-v2.png); background-size: contain; height: 220px; border: 1px solid #f8f9fa;"></div>
+          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/portfolio-v2.png); background-size: cover; height: 240px; border: 1px solid #f8f9fa;"></div>
+          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/portfolio-v2.png); background-size: contain; height: 220px; border: 1px solid #f8f9fa;"></div>
 
           <div class="col-lg-6 p-0 px-lg-4 pt-2">
               <div class="form-group fs-6">
@@ -180,8 +180,8 @@
 
       <div :class="[containerClass, 'container-fluid','project',' bg-light','rounded-4','mb-2']">
         <div class="row p-3 p-lg-2">
-          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/public/img/portfolio.png); background-size: cover; height: 230px; border: 1px solid #f8f9fa;"></div>
-          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/public/img/portfolio.png); background-size: contain; height: 220px; border: 1px solid #f8f9fa;"></div>
+          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/portfolio.png); background-size: cover; height: 230px; border: 1px solid #f8f9fa;"></div>
+          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/portfolio.png); background-size: contain; height: 220px; border: 1px solid #f8f9fa;"></div>
 
           <div class="col-lg-6 p-0 px-lg-4 pt-2">
               <div class="form-group fs-6">
@@ -239,8 +239,8 @@
 
       <div :class="[containerClass, 'container-fluid','project',' bg-light','rounded-4','mb-2']">
         <div class="row p-3 p-lg-2">
-          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/public/img/CarRental.png); background-size: contain; height: 245px; border: 1px solid gray;"></div>
-          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/public/img/CarRental.png); background-size: contain; height: 220px;"></div>
+          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/CarRental.png); background-size: contain; height: 245px; border: 1px solid gray;"></div>
+          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/CarRental.png); background-size: contain; height: 220px;"></div>
           <div class="col-lg-6 p-0 px-lg-4 pt-2">
               <div class="form-group fs-6">
                   <p class="fw-bold mb-2">Personalized - A webiste built using Bootstrap and JavaScript for a CarRental Services ･ 2022</p>
@@ -286,8 +286,8 @@
 
       <div :class="[containerClass, 'container-fluid','project',' bg-light','rounded-4','mb-2']">
         <div class="row p-3 p-lg-2">
-          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/public/img/Cleanex.png); background-size: contain; height: 225px; border: 1px solid gray;"></div>
-          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/public/img/Cleanex.png); background-size: contain; height: 220px;"></div>
+          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/Cleanex.png); background-size: contain; height: 225px; border: 1px solid gray;"></div>
+          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/Cleanex.png); background-size: contain; height: 220px;"></div>
           <div class="col-lg-6 p-0 px-lg-4 pt-2">
               <div class="form-group fs-6">
                   <p class="fw-bold mb-2">Personalized - A webiste built using Bootstrap and JavaScript for a Cleaning Services ･ 2022</p>
