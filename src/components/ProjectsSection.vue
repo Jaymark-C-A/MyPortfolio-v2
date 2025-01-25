@@ -109,7 +109,7 @@
 
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex justify-content-start gap-2">
-                  <a href="#"  :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fab fa-github"></i></a>
+                  <a href="https://github.com/Jaymark-C-A/TransactionMonitoring"  :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fab fa-github"></i></a>
                   <a href="#" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
                 <span class="bg-primary px-3 text-white rounded-4 h-25" style="font-size: 10px; letter-spacing: 1px;">Capstone Program</span>
@@ -168,8 +168,8 @@
 
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex justify-content-start gap-2">
-                  <a href="#"  :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fab fa-github"></i></a>
-                  <a href="#" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                  <a href="https://github.com/Jaymark-C-A/MyPortfolio-v2"  :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fab fa-github"></i></a>
+                  <a href="https://azurin.vercel.app" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
                 <span class="bg-primary px-3 text-white rounded-4 h-25" style="font-size: 10px; letter-spacing: 1px;">Personal Project</span>
               </div>
@@ -226,8 +226,8 @@
 
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex justify-content-start gap-2">
-                  <a href="#"  :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fab fa-github"></i></a>
-                  <a href="#" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                  <a href="https://github.com/Jaymark-C-A/MyPortfolio-v1"  :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fab fa-github"></i></a>
+                  <a href="https://markazrin.vercel.app" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
                 <span class="bg-primary px-3 text-white rounded-4 h-25" style="font-size: 10px; letter-spacing: 1px;">Personal Project</span>
               </div>
@@ -275,7 +275,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex justify-content-start gap-2">
                   <a href="#"  :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fab fa-github"></i></a>
-                  <a href="#" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                  <a href="http://azrin.byethost12.com/Car%20Rental%20Service" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
                 <span class="bg-primary px-3 text-white rounded-4 h-25" style="font-size: 10px; letter-spacing: 1px;">Personal Project</span>
               </div>
@@ -322,7 +322,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="d-flex justify-content-start gap-2">
                   <a href="#"  :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fab fa-github"></i></a>
-                  <a href="#" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                  <a href="http://azrin.byethost12.com/cleaning/" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
                 <span class="bg-primary px-3 text-white rounded-4 h-25" style="font-size: 10px; letter-spacing: 1px;">Personal Project</span>
               </div>
