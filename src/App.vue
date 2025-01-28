@@ -33,7 +33,8 @@ html, body {
 }
   body{
     font-family: Arial, Helvetica, sans-serif;
-    background: rgb(19, 19, 97);
+    backgroud: #A78BFA;
+    /* background: rgb(19, 19, 97); */
     /* background-color: #000; */
   }
   .fade-right {
