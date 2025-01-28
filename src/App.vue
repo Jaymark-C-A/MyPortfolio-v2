@@ -33,7 +33,7 @@ html, body {
 }
   body{
     font-family: Arial, Helvetica, sans-serif;
-    background: #A78BFA;
+    background: #D58D8D;
     /* background: rgb(19, 19, 97); */
     /* background-color: #000; */
   }
