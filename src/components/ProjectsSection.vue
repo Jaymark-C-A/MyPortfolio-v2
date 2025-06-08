@@ -127,7 +127,7 @@
           <div class="col-lg-6 p-0 px-lg-4 pt-2">
               <div class="form-group fs-6">
                   <p class="fw-bold mb-2">Personalized - A landing page webiste built using Vue, Bootstrap and JavaScript ･ 2025</p>
-                  <p class="" style="font-size: 12px;">An efficient and polished landing page, expertly built with Vue, Bootstrap and JavaScript</p>
+                  <p class="" style="font-size: 12px;">In the process of developing a simple advertisement website, currently under construction.</p>
               </div>
 
               <div class="container-fluid p-0 mb-3">
