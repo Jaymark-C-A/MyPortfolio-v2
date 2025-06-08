@@ -330,6 +330,53 @@
           </div>
         </div>
       </div>
+
+      <div :class="[containerClass, 'container-fluid','project',' bg-light','rounded-4','mb-2']">
+        <div class="row p-3 p-lg-2">
+          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/Cleanex.png); background-size: contain; height: 225px; border: 1px solid gray;"></div>
+          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/Cleanex.png); background-size: contain; height: 220px;"></div>
+          <div class="col-lg-6 p-0 px-lg-4 pt-2">
+              <div class="form-group fs-6">
+                  <p class="fw-bold mb-2">Personalized - A webiste built using Bootstrap and JavaScript for a Cleaning Services ･ 2022</p>
+                  <p class="" style="font-size: 12px;">An efficient and polished cleaning service platform, expertly built with HTML and JavaScript, and styled using Bootstrap.</p>
+              </div>
+
+              <div class="container-fluid p-0 mb-3">
+                <div class="d-flex flex-wrap justify-content-start gap-1">
+                  <div :class="[containerClass, 'd-flex','justify-content-center','align-items-center','bg-light','rounded-2']" style="width: 55px; border: 1px solid gray;">
+                    <p class="m-0 py-1" style="font-size: 12px;">
+                      HTML
+                    </p>
+                  </div>
+                  <div :class="[containerClass, 'd-flex','justify-content-center','align-items-center','bg-light','rounded-2']" style="width: 45px; border: 1px solid gray;">
+                    <p class="m-0 py-1" style="font-size: 12px;">
+                      CSS
+                    </p>
+                  </div>
+                  <div :class="[containerClass, 'd-flex','justify-content-center','align-items-center','bg-light','rounded-2']" style="width: 80px; border: 1px solid gray;">
+                    <p class="m-0 py-1" style="font-size: 12px;">
+                      Bootstrap
+                    </p>
+                  </div>
+                  <div :class="[containerClass, 'd-flex','justify-content-center','align-items-center','bg-light','rounded-2']" style="width: 80px; border: 1px solid gray;">
+                    <p class="m-0 py-1" style="font-size: 12px;">
+                      JavaScript
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="d-flex justify-content-start gap-2">
+                  <a href="#"  :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fab fa-github"></i></a>
+                  <a href="http://azrin.byethost12.com/cleaning/" :class="[containerClass, 'btn','py-0','px-4']" style="color: #000;"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div>
+                <span class="bg-primary px-3 text-white rounded-4 h-25" style="font-size: 10px; letter-spacing: 1px;">Personal Project</span>
+              </div>
+
+          </div>
+        </div>
+      </div>
     </div>
 
 
