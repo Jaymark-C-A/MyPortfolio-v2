@@ -122,8 +122,8 @@
 
       <div :class="[containerClass, 'container-fluid','project',' bg-light','rounded-4','mb-2']">
         <div class="row p-3 p-lg-2">
-          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/Cleanex.png); background-size: contain; height: 225px; border: 1px solid gray;"></div>
-          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/Cleanex.png); background-size: contain; height: 220px;"></div>
+          <div class="col-lg-6 rounded-4 d-none d-lg-block" style="background-image: url(/img/landing_page.png); background-size: contain; height: 225px; border: 1px solid gray;"></div>
+          <div class="col-lg-6 rounded-4 d-lg-none d-lg-block" style="background-image: url(/img/landing_page.png); background-size: contain; height: 220px;"></div>
           <div class="col-lg-6 p-0 px-lg-4 pt-2">
               <div class="form-group fs-6">
                   <p class="fw-bold mb-2">Personalized - A landing page webiste built using Vue, Bootstrap and JavaScript ･ 2025</p>
