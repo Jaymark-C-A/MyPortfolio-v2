@@ -139,7 +139,7 @@
         // Create an anchor tag to trigger the download
         const link = document.createElement('a');
         link.href = resumeUrl;
-        link.download = 'Resume_Azurin-Jaymark.pdf'; // Optionally change the file name
+        link.download = 'Web-Resume_Azurin-Jaymark.pdf'; // Optionally change the file name
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
