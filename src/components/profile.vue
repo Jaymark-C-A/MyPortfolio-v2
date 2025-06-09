@@ -37,10 +37,10 @@
             <marquee behavior="" direction="" class="py-2 bg-light rounded-3" style="position: relative; bottom: 90px;">
                 <div class="d-flex justify-content-center gap-3" style="font-weight: 600;">
                     <div class="d-flex justify-content-center gap-2 py-1 bg-primary" style="width: 35%; border-radius: 5px;">
-                        <p class="m-0 pt-0 px-2 bg-primary-subtle" style="font-size: 16px;"><i class="fab fa-html5" style="color: #000; padding-right: 5px;"></i>Html</p>
+                        <p class="m-0 pt-0 px-2 bg-primary-subtle" style="font-size: 16px;"><i class="fab fa-html5" style="color: #000; padding-right: 5px;"></i>HTML</p>
                     </div>
                     <div class="d-flex justify-content-center gap-2 py-1 bg-primary" style="width: 35%; border-radius: 5px;">
-                        <p class="m-0 pt-0 px-2 bg-primary-subtle" style="font-size: 16px;"><i class="fab fa-css3" style="color: #000; padding-right: 5px;"></i>Css</p>
+                        <p class="m-0 pt-0 px-2 bg-primary-subtle" style="font-size: 16px;"><i class="fab fa-css3" style="color: #000; padding-right: 5px;"></i>CSS</p>
                     </div>
                     <div class="d-flex justify-content-center gap-2 py-1 bg-primary" style="width: 40%; border-radius: 5px;">
                         <p class="m-0 pt-0 px-2 bg-primary-subtle" style="font-size: 16px;"><i class="fab fa-bootstrap" style="color: #000; padding-right: 5px;"></i>Bootstrap</p>
