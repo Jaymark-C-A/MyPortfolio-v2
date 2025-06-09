@@ -20,7 +20,7 @@
             </div>
             <div class="modal-body bg-dark text-light-emphasis text-center fs-5">
             <div class="d-flex justify-content-center">
-                <img class="shadow-lg" style="border: 1px solid rgb(143, 201, 167);" src="/public/img/Resume.png" alt="Resume" width="50%" height="auto">
+                <img class="shadow-lg" style="border: 1px solid rgb(143, 201, 167);" src="/public/img/Resume.PNG" alt="Resume" width="50%" height="auto">
             </div>
             </div>
             <div class="modal-footer">
