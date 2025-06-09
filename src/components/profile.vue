@@ -69,6 +69,15 @@
                     <div class="d-flex justify-content-center gap-2 py-1 bg-primary" style="width: 35%; border-radius: 5px;">
                         <p class="m-0 pt-0 px-2 bg-primary-subtle" style="font-size: 16px;"><i class="fab fa-vite" style="color: #000; padding-right: 5px;"></i>Vite</p>
                     </div>
+                    <div class="d-flex justify-content-center gap-2 py-1 bg-primary" style="width: 35%; border-radius: 5px;">
+                        <p class="m-0 pt-0 px-2 bg-primary-subtle" style="font-size: 16px;"><i class="fab fa-sql" style="color: #000; padding-right: 5px;"></i>MySQL</p>
+                    </div>
+                    <div class="d-flex justify-content-center gap-2 py-1 bg-primary" style="width: 35%; border-radius: 5px;">
+                        <p class="m-0 pt-0 px-2 bg-primary-subtle" style="font-size: 16px;"><i class="fab fa-git" style="color: #000; padding-right: 5px;"></i>Github</p>
+                    </div>
+                    <div class="d-flex justify-content-center gap-2 py-1 bg-primary" style="width: 35%; border-radius: 5px;">
+                        <p class="m-0 pt-0 px-2 bg-primary-subtle" style="font-size: 16px;"><i class="fab fa-smtp" style="color: #000; padding-right: 5px;"></i>SMTP</p>
+                    </div>
                 </div>
             </marquee>
         </div>
