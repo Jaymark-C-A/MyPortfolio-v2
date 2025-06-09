@@ -134,7 +134,7 @@
         // Method to handle the resume download
         downloadResume() {
         // Replace this URL with the actual path to the resume file
-       const resumeUrl = 'pdf/Resume_Azurin-Jaymark.pdf';
+       const resumeUrl = 'pdf/Web-Resume_Azurin-Jaymark.pdf';
 
         // Create an anchor tag to trigger the download
         const link = document.createElement('a');
