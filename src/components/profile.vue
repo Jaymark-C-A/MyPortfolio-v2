@@ -25,7 +25,7 @@
         <div :class="[containerClass,'container-fluid','pt-2','rounded-4',]">
             <div class="image bg-light rounded-4" style="border-bottom: 4px solid blue; background-image: url(/img/pic2.jpg); background-size: cover; background-position: center; width: 100%; height: 230px;" ></div>
             <div class="pic d-flex justify-content-center" style="position: relative; bottom: 140px;">
-                <img class="shadow-lg" style=" border-radius: 50%; border: 5px solid blue; width: 200px; height: 200px; object-fit: cover;" src="/public/img/gradPic.jpg" alt="">
+                <img class="shadow-lg" style=" border-radius: 50%; border: 5px solid blue; width: 200px; height: 200px; object-fit: fit;" src="/public/img/gradPic.jpg" alt="">
             </div>
             <div class="caption" style="font-size: small; position: relative; bottom: 120px;">
                 <p class="px-2 m-0 text-center d-none d-lg-block">I’m a 21-year-old front-end developer from the Philippines,  <span class="text-primary fw-bold">aspiring to become a full-stack developer. </span> Over the past few years, I’ve been dedicated to crafting visually engaging and user-friendly websites. I’m passionate about blending creativity and technology to deliver impactful digital experiences and continuously strive to expand my skills in web development.</p>
