@@ -79,7 +79,7 @@
                 <p class="m-0">Graduate of <span class="text-primary fw-bold">Bachelor of Science in Information Technology (BSIT) </span> with a focus on web development, specializing in front-end development and aspiring to become a 
                     <span class="text-primary fw-bold">full-stack developer.</span> 
                     My expertise includes creating visually engaging and user-friendly websites, with a strong understanding of networking and foundational skills in network administration. <br><br>
-                    I also hold a <span class="text-primary fw-bold"> TESDA National Certificate II (NC II) in Computer Systems Servicing (CSS),<span> which validates my competencies in computer hardware servicing, basic networking, and system maintenance.
+                    I also hold a <span class="text-primary fw-bold"> TESDA National Certificate II (NC II) in Computer Systems Servicing (CSS),</span> which validates my competencies in computer hardware servicing, basic networking, and system maintenance.
                 </p>
             </div>
         </div>
