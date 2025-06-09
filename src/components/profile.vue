@@ -76,7 +76,11 @@
         <div :class="[containerClass, 'container-fluid','py-3']" style="border-radius: 15px; position: relative; bottom: 42px;">
             <h4 class="fw-bold p-3 fs-4 rounded-3 text-primary" style="border: 1px solid gray;">Academic Qualifications</h4>
             <div class="caption p-3 rounded-3" style="font-size: 14px; line-height: 1.6; border: 1px solid gray;">
-                <p class="m-0">Graduate of <span class="text-primary fw-bold">Bachelor of Science in Information Technology (BSIT) </span> with a focus on web development, specializing in front-end development and aspiring to become a <span class="text-primary fw-bold">full-stack developer.</span> My expertise includes creating visually engaging and user-friendly websites, with a strong understanding of networking and foundational skills in network administration.</p>
+                <p class="m-0">Graduate of <span class="text-primary fw-bold">Bachelor of Science in Information Technology (BSIT) </span> with a focus on web development, specializing in front-end development and aspiring to become a 
+                    <span class="text-primary fw-bold">full-stack developer.</span> 
+                    My expertise includes creating visually engaging and user-friendly websites, with a strong understanding of networking and foundational skills in network administration.
+                    I also hold a TESDA National Certificate II (NC II) in Computer Systems Servicing (CSS), which validates my competencies in computer hardware servicing, basic networking, and system maintenance.
+                </p>
             </div>
         </div>
 
