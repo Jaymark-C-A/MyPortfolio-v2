@@ -29,7 +29,7 @@
           </div>
           <div class="col-lg-6 p-0 px-lg-4 mt-3">
               <div class="form-group fs-6">
-                  <p class="fw-bold mb-2">Capstone Project - Transaction Monitoring System (TMS) for Olongapo City National High School ･ 2023</p>
+                  <p class="fw-bold mb-2">Capstone Project - Transaction Monitoring System (TMS) for Olongapo City National High School ･ 2023 - 2024</p>
                   <p class="" style="font-size: 12px;">The Transaction Monitoring System (TMS) enhances visitor management, ticketing, and feedback with <span class="text-primary fw-bold"> real-time tracking, color-coded tickets, and a queuing system </span> for improved efficiency. It also features a comprehensive monitoring tool to oversee transactions, ensuring better management and decision-making. Developed as part of our capstone program, TMS showcases our commitment to creating user-focused and efficient solutions.</p>
               </div>
               <div class="container-fluid p-0">
